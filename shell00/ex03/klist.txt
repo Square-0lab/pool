@@ -1,0 +1,5 @@
+Credentials cache: API:1C6C8FAC-3A26-446D-9C04-F0FE29C6206E
+        Principal: zmeribaa@1337.MA
+
+  Issued                Expires               Principal
+Jun 21 16:10:02 2021  Jun 28 16:09:59 2021  krbtgt/1337.MA@1337.MA
